@@ -24,9 +24,16 @@ React JS is the programming language of choice, and Chat Engine is a set of APIs
 
 `npm install`
 
+Note
+
+- Create an account in chat-engine.io 
+- [Follow these steps](https://chatengine.io/docs/react/v1/getting_started)
+
 4.Run Application
 
 `npm start`
+
+
 
 ## Technologies/Libraries/Packages info:
 
