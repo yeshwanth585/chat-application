@@ -32,7 +32,7 @@ React JS is the programming language of choice, and Chat Engine is a set of APIs
 
 - Backend:
   - NodeJS (ExpressJS)
-   - Chatengine.io
+   - [Chatengine.io](https://chatengine.io/)
 
 - Frontend:
   - ReactJS
@@ -46,9 +46,7 @@ React JS is the programming language of choice, and Chat Engine is a set of APIs
 - Deployment:
   - Netlifly
 
-Documentation:
 
-Markdown
 
 
 
