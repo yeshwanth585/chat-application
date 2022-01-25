@@ -30,30 +30,21 @@ React JS is the programming language of choice, and Chat Engine is a set of APIs
 
 ## Technologies/Libraries/Packages info:
 
->Backend:
+- Backend:
+  - NodeJS (ExpressJS)
+   - Chatengine.io
 
-NodeJS (ExpressJS)
+- Frontend:
+  - ReactJS
+   - React-chat-engine
+    - React-icons
+     - Axios
 
-Chatengine.io
+- Database:
+  - Local Database
 
->Frontend:
-
-ReactJS
-React-chat-engine
-
-React-icons
-
-Bootstrap-Material Library
-
-Axios
-
->Database:
-
-Local Database
-
->Deployment:
-
-Netlifly
+- Deployment:
+  - Netlifly
 
 Documentation:
 
