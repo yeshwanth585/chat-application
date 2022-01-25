@@ -10,8 +10,55 @@ This is a Microsoft Teams clone built with React JS and [Chat Engine](https://ch
 
 React JS is the programming language of choice, and Chat Engine is a set of APIs and UI Kit specific to chat.
 
-Installation Guidelines
+## Installation Guidelines
 
-clo
+1.Clone the Repository in your Local Machine
+
+`clone https://github.com/yeshwanth585/chat-application.git`
+
+2.Switch into the Cloned Folder
+
+`cd chat-application`
+
+3.Install dependencies
+
+`npm install`
+
+4.Run Application
+
+`npm start`
+
+## Technologies/Libraries/Packages info:
+
+>Backend:
+
+NodeJS (ExpressJS)
+
+Chatengine.io
+
+>Frontend:
+
+ReactJS
+React-chat-engine
+
+React-icons
+
+Bootstrap-Material Library
+
+Axios
+
+>Database:
+
+Local Database
+
+>Deployment:
+
+Netlifly
+
+Documentation:
+
+Markdown
+
+
 
 
